@@ -4,4 +4,4 @@ test hoge
 hogehoge!
 hogehogels!
 
-Let's enjoy hoge!
+Let's Enjoy hoge!

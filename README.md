@@ -6,3 +6,4 @@ hogehogels!
 
 Let's Enjoy hoge!
 hoge test
+fugafuga
